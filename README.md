@@ -22,6 +22,7 @@ For example in these areas:
   * Mongodb
   * Nodejs
   * nginx
+  * reactjs
 
 # Installation
 
